@@ -12,7 +12,7 @@ This project is a comprehensive example of a microservices architecture implemen
 
 ## Architecture
 Below is the architecture diagram of the microservices setup:
-![Architecture](architecture.png)
+![Architecture](/architecture.png)
 
 ## Components
 The project is structured into several key services:
